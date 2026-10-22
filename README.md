@@ -6,7 +6,7 @@
 - 作者：4 人
 - 時間：2024-01 ~ 2024-03 開發的
 - 所用語言：.NET 8 + LINQ、css、bootstrap、javascript、jQuery。
-- 所用框架：ASP.NET Core Web API + ASP.NET Core MVC + Vue3js。
+- 所用框架：ASP.NET Core Web API + ASP.NET Core MVC。
 - 所用資料庫：MSSQL。
 - 備註：前一份專案版本，內 url 皆為 host 自訂之名，故需先行變更 C:\Windows\System32\drivers\etc\hosts 的 # 127.0.0.1 和 # ::1 為 modpack.com 方可順利啟用。此版本已修復回，可直接啟動。
 - [圖片瀏覽](https://github.com/c-cat-er/ModPack/tree/main/images)
